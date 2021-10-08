@@ -1,0 +1,10 @@
+{
+  "name": "nodejs-learning",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "lihaohao <2495041749@qq.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.32.0"
+  }
+}
