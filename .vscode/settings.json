@@ -3,7 +3,7 @@
   "editor.fontWeight": "bold",
   "editor.letterSpacing": 0.5,
   "editor.lineHeight": 1.5,
-  "editor.fontSize": 11,
+  "editor.fontSize": 15,
   "editor.fontFamily": "Comic Sans MS",
   "editor.tabSize": 2,
   "prettier.printWidth": 120,
@@ -12,5 +12,6 @@
   "prettier.trailingComma": "none",
   "prettier.jsxBracketSameLine": true,
   "terminal.integrated.cursorStyle": "underline",
-  "editor.cursorStyle": "underline-thin"
+  "editor.cursorStyle": "underline-thin",
+  "terminal.integrated.fontSize": 12
 }
