@@ -1,0 +1,1 @@
+console.log(process.stdin, process.stdout, process.stderr)

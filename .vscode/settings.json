@@ -1,9 +1,8 @@
 {
-  "editor.formatOnSave": true,
   "editor.fontWeight": "bold",
   "editor.letterSpacing": 0.5,
   "editor.lineHeight": 1.5,
-  "editor.fontSize": 10,
+  "editor.fontSize": 12,
   "editor.fontFamily": "Consolas, 'Courier New', monospace",
   "editor.tabSize": 2,
   "prettier.printWidth": 120,
@@ -11,7 +10,7 @@
   "prettier.singleQuote": true,
   "prettier.trailingComma": "none",
   "prettier.jsxBracketSameLine": true,
-  "terminal.integrated.cursorStyle": "underline",
-  "editor.cursorStyle": "underline-thin",
-  "terminal.integrated.fontSize": 12
+  "terminal.integrated.fontSize": 12,
+  "editor.cursorWidth": 5,
+  "terminal.integrated.fontFamily": "Consolas, 'Courier New', monospace"
 }
